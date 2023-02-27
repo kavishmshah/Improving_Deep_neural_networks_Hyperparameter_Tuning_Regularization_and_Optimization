@@ -1,2 +1,4 @@
 # Improving_Deep_neural_networks_Hyperparameter_Tuning_Regularization_and_Optimization
 Projects and assignments from the Deep learning Specialization-Course2
+
+Repo contains programming assignments from the course Improving_Deep_neural_networks_Hyperparameter_Tuning_Regularization_and_Optimization, course-2 from Deep Learning Specialization on Coursera(Deep Learning.AI).
